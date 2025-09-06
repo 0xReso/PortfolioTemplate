@@ -20,6 +20,7 @@ const TechMarquee: React.FC = () => {
   const techStackRow2 = [
     { name: "Java", icon: <Cpu className="w-5 h-5 mr-2" /> },
     { name: "Python", icon: <Terminal className="w-5 h-5 mr-2" /> },
+    { name: "C++", icon: <Terminal className="w-5 h-5 mr-2" /> },
     { name: "TypeScript", icon: <Code2 className="w-5 h-5 mr-2" /> },
     { name: "MongoDB", icon: <Database className="w-5 h-5 mr-2" /> },
     { name: "Redis", icon: <Database className="w-5 h-5 mr-2" /> },
