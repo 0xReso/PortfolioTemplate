@@ -14,24 +14,24 @@ const EducationTimeline: React.FC = () => {
   const educationData: Education[] = [
     {
       id: 1,
-      years: "202X–202X",
-      degree: "B.Tech, Computer Science",
-      institution: "IIT Dholakpur",
-      grade: "GPA: X/10"
+      years: "2025 – On Going",
+      degree: "BSc in Management and Data Science",
+      institution: "Technische Universität München",
+      grade: "GPA: TBD"
     },
     {
       id: 2,
-      years: "202X–202X",
-      degree: "Higher Secondary Education",
-      institution: "XX School",
-      grade: "Percentage: XX%"
+      years: "2023–2025",
+      degree: "BSc in Economics with a Dual Degree in Management Information Systems",
+      institution: "Marmara University",
+      grade: "GPA: 3.18"
     },
     {
       id: 3,
-      years: "201X–202X",
-      degree: "Secondary Education",
-      institution: "Delhi Public School",
-      grade: "CGPA: XX/10"
+      years: "2025",
+      degree: "Erasmus+ Exchange Program, Department of Economics",
+      institution: "Università di Bologna",
+      grade: "Erasmus+ Scholarship Recipient"
     }
   ];
 
