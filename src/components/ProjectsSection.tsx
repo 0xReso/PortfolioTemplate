@@ -16,44 +16,16 @@ const ProjectsSection: React.FC = () => {
   const projects: Project[] = [
     {
       id: 1,
-      title: "Project 1",
-      description: "xyz",
-      techStack: ["React", "Node.js", "Express"],
+      title: "Tech Economy Index – Global Digital Competitiveness",
+      description: "A data-driven project measuring countries’ digital competitiveness using World Bank and OECD data, includes automated data collection, SQL-based processing, index construction, ML modeling, and visualization in Python & R.",
+      techStack: ["NumPy", "Python", "R", "SQL", "Jupyter Notebook"],
       url: "#"
     },
     {
       id: 2,
-      title: "Project 2",
-      description: "abc",
-      techStack: ["Vue.js", "Django", "MongoDB"],
-      url: "#"
-    },
-    {
-      id: 3,
-      title: "Project 3",
-      description: "123",
-      techStack: ["Angular", "Flask", "PostgreSQL"],
-      url: "#"
-    },
-    {
-      id: 4,
-      title: "Project 4",
-      description: "456",
-      techStack: ["Svelte", "Ruby on Rails", "MySQL"],
-      url: "#"
-    },
-    {
-      id: 5,
-      title: "Project 5",
-      description: "789",
-      techStack: ["Next.js", "Spring Boot", "SQLite"],
-      url: "#"     
-    },
-    {
-      id : 6,
-      title: "Project 6",
-      description: "101",
-      techStack: ["Golang", "ASP.NET", "Firebase"],
+      title: "Migration & Memory – Post-Earthquake LGBTI+ Field Project",
+      description: "Conducted with the Truth Justice Memory Center (Hakikat Adalet Hafıza Merkezi) to document the migration experiences of LGBTI+ individuals after the February 6 earthquakes in Turkey and Syria. Focused on access to food, shelter, healthcare, and welfare in post-disaster migration. Coordinated field research, interviews, and NGO collaboration, producing both a documentary and an analytical report on rights violations and social resilience.",
+      techStack: ["Excel", "Python", "R", "Interview Transcription"],
       url: "#"
     }
   ];
