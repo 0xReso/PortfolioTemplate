@@ -29,7 +29,7 @@ A sleek, modern portfolio template built with React, Vite, and Framer Motion. Th
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Resorcinolworks/PortfolioTemplate.git
+git clone https://github.com/0xReso/PortfolioTemplate.git
 ```
 
 2. Install dependencies:
@@ -80,6 +80,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with ❤️ by [0xReso](https://github.com/Resorcinolworks)
+Made with ❤️ by [0xReso](https://github.com/0xReso)
 
 Feel free to star ⭐ this repository if you find it useful!
