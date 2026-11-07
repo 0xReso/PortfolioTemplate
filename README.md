@@ -80,6 +80,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with ❤️ by [Ayush Raghuvanshi](https://github.com/Resorcinolworks)
+Made with ❤️ by [0xReso](https://github.com/Resorcinolworks)
 
 Feel free to star ⭐ this repository if you find it useful!
